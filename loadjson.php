@@ -1,7 +1,8 @@
 <?php
 //********************************************************
 //*********************************************************read data
-
+/* @copyright  Kathrin Braungardt
+* @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 
 $n=0;
 $p=array();
